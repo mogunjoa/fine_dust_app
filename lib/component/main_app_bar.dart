@@ -14,7 +14,7 @@ class MainAppBar extends StatelessWidget {
 
     return SliverAppBar(
       backgroundColor: primaryColor,
-      collapsedHeight: 600,
+      expandedHeight: 500,
       flexibleSpace: FlexibleSpaceBar(
         background: SafeArea(
           child: Container(
