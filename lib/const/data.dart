@@ -1,1 +1,1 @@
-const serviceKey = "kOf/h5eZ9hO0AXlWbNgBW1Hh5N3/Amr6RN0BfFuInUV92BkL0Tp/+20MbZ9bEHE+zEOimrjWagfqmzPyNd6m0w==";
+const serviceKey = "APIKEY";
