@@ -18,7 +18,7 @@ class MainAppBar extends StatelessWidget {
       flexibleSpace: FlexibleSpaceBar(
         background: SafeArea(
           child: Container(
-            margin: EdgeInsets.only(top: 100),
+            margin: EdgeInsets.only(top: kToolbarHeight),
             child: Column(
               children: [
                 Text(
